@@ -1,2 +1,7 @@
-# TRAVEL-EASE
-Travel Ease is a cutting-edge app that aims to empower users to explore the world independently by providing an inclusive, accessible, and personalized travel experience. 
+# TravelEASE
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
